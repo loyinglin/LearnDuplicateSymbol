@@ -1,0 +1,6 @@
+framework module LYTestFramework {
+  umbrella header "LYTestFramework.h"
+
+  export *
+  module * { export * }
+}
